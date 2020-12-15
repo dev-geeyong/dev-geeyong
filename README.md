@@ -51,7 +51,7 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="geeyong's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dev-geeyong&show_icons=true&hide_border=true" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-geeyong&show_icons=true&theme=radical)
 
     
 
