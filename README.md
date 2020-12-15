@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="dev-geeyong.tistory.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="dev-geeyong.tistory.com" width="22px" src="dev-geeyong.tistory.com" />
 
 <br />
 
