@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Visual Studio Code" width="26px" "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" /> dev.geeyon@gmail.com
+<img align="left" alt="Visual Studio Code" width="26px" "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" />
 
 
 <br />
