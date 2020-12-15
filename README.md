@@ -12,7 +12,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="gmail" width="26px" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63"/>dev.geeyong@gmail.com 
+<p align="left">
+<a href="mailto:dev.geeyong@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev.geeyong@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 ### Languages and Tools:
 
