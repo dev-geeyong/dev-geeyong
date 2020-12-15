@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Connect with me:
-<a>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63"/>dev.geeyong@gmail.com 
-</a>
+
+<img align="left" alt="gmail" width="26px" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63"/>dev.geeyong@gmail.com 
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
