@@ -25,7 +25,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-nijar&layout=compact)](https://github.com/black-nijar/github-readme-stats)
+
 <!-- [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist] -->
 <!-- [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] -->
 
@@ -53,6 +53,7 @@
 
   <img align="left" alt="geeyong's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dev-geeyong&show_icons=true&hide_border=true" />
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-geeyong&layout=compact)](https://github.com/dev-geeyong/github-readme-stats)
 
 
 
