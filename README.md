@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Visual Studio Code" width="26px" "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 
 
 <br />
