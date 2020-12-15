@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" dev.geeyong@gmail.com />
 
 
 <br />
